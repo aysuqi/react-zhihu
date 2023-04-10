@@ -1,0 +1,1 @@
+import{b as e,f as a}from"./index-d538a9d3.js";import{M as s}from"./index-d3084e77.js";import"./LeftOutline-1c3d7914.js";const o=t=>a("div",{className:"update",children:a(s,{title:"修改个人信息"})}),d=e(t=>t.base)(o);export{d as default};
